@@ -20,6 +20,12 @@
 
 ![Carte Lapin](./Carte lapin.png)
 
+![Carte Bouc](./carte bouc.png)
+
+![Carte Racoon](./carte raton.png)
+
+![Carte enfant](./carte enfant.png)
+
 
 
 
