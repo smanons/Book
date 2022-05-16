@@ -1,5 +1,4 @@
 <header>
-  <h1>Book</h1>
   <h2>Manon Scherrer | 06 23 47 40 64 | <a href="mailto:cassenoisette.communication@gmail.com">cassenoisette.communication@gmail.com</a></h2>
 </header>
 
