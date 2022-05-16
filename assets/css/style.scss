@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+header h1 {
+  font-size: 96px;
+}
+
+#downloads {
+  display: none;
+}
+
 .inner {
   width: 980px; 
   text-align: center;
