@@ -30,6 +30,23 @@
 
 ![Pub](./Communication D&S.png)
 
+---
+# Communication Réseaux sociaux
+
+![Encart web](./Encart Facebook.png)
+
+![Encart web](./Encart.png)
+
+---
+# Logos & créations graphiques
+
+![Schetzahus](./Logo Schetzahus.png)
+
+![Babylone Beer Bar](./Logo-baby.png)
+
+![Nouveau logo BAbylone](./Logopoulpe.png)
+
+
 
 
 
