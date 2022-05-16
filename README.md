@@ -1,6 +1,4 @@
-# Design graphique & communication
-
-## Manon Scherrer | 06 23 47 40 64 | <a href="mailto:cassenoisette.communication@gmail.com">cassenoisette.communication@gmail.com</a>
+# Book
 
 <header>
   <h2>Manon Scherrer | 06 23 47 40 64 | <a href="mailto:cassenoisette.communication@gmail.com">cassenoisette.communication@gmail.com</a></h2>
