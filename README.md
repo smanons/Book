@@ -33,9 +33,9 @@
 ---
 # Communication Réseaux sociaux
 
-![Encart web](./Encart Facebook.png)
-
 ![Encart web](./Encart.png)
+
+![Encart web](./Encart Facebook.png)
 
 ---
 # Logos & créations graphiques
