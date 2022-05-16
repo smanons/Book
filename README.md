@@ -1,5 +1,3 @@
-# BOOK
-
-## MANON SCHERRER
+## Manon Scherrer
 
 ![Logo Babylone Beer Bar](./Logo baby noir.png)
