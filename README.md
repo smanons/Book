@@ -13,6 +13,13 @@
 
 ![Soirée Stand Up](./Soirée Stand Up.png)
 
+---
+# Communication Web
+
+![Carte Renard](./carte renard.png)
+
+![Carte Lapin](./Carte lapin.png)
+
 
 
 
